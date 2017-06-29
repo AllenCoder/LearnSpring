@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/RESTfulWebService/RESTfulWebService.iml" filepath="$PROJECT_DIR$/RESTfulWebService/RESTfulWebService.iml" />
       <module fileurl="file://$PROJECT_DIR$/SecuringaWebApplication/SecuringaWebApplication.iml" filepath="$PROJECT_DIR$/SecuringaWebApplication/SecuringaWebApplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/gsactuatorservice/gsactuatorservice.iml" filepath="$PROJECT_DIR$/gsactuatorservice/gsactuatorservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/gsbatchprocessing/gsbatchprocessing.iml" filepath="$PROJECT_DIR$/gsbatchprocessing/gsbatchprocessing.iml" />
