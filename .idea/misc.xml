@@ -43,6 +43,7 @@
       <list>
         <option value="$PROJECT_DIR$/gsactuatorservice/pom.xml" />
         <option value="$PROJECT_DIR$/gsbatchprocessing/pom.xml" />
+        <option value="$PROJECT_DIR$/SecuringaWebApplication/pom.xml" />
       </list>
     </option>
   </component>
