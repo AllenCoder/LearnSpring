@@ -6,6 +6,10 @@
 
     <groupId>org.springframework</groupId>
     <artifactId>Data-with-GemFire</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>../IntegratingData</module>
+    </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
@@ -17,7 +21,7 @@
         <spring-shell.version>1.0.0.RELEASE</spring-shell.version>
     </properties>
 
-    
+
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
