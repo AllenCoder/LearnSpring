@@ -45,6 +45,7 @@
         <option value="$PROJECT_DIR$/gsbatchprocessing/pom.xml" />
         <option value="$PROJECT_DIR$/SecuringaWebApplication/pom.xml" />
         <option value="$PROJECT_DIR$/RESTfulWebService/pom.xml" />
+        <option value="$PROJECT_DIR$/DatawithGemFire/pom.xml" />
       </list>
     </option>
   </component>
