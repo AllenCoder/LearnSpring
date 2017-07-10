@@ -46,6 +46,7 @@
         <option value="$PROJECT_DIR$/SecuringaWebApplication/pom.xml" />
         <option value="$PROJECT_DIR$/RESTfulWebService/pom.xml" />
         <option value="$PROJECT_DIR$/DatawithGemFire/pom.xml" />
+        <option value="$PROJECT_DIR$/CachingDatawithGemFire/pom.xml" />
       </list>
     </option>
   </component>

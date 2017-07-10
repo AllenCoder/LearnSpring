@@ -7,6 +7,10 @@
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>1.5.1.RELEASE</version>
     </parent>
+    <packaging>pom</packaging>
+    <modules>
+        <module>../CachingDatawithGemFire</module>
+    </modules>
 
     <properties>
         <java.version>1.8</java.version>

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CachingDatawithGemFire/CachingDatawithGemFire.iml" filepath="$PROJECT_DIR$/CachingDatawithGemFire/CachingDatawithGemFire.iml" />
       <module fileurl="file://$PROJECT_DIR$/DatawithGemFire/DatawithGemFire.iml" filepath="$PROJECT_DIR$/DatawithGemFire/DatawithGemFire.iml" />
       <module fileurl="file://$PROJECT_DIR$/IntegratingData/IntegratingData.iml" filepath="$PROJECT_DIR$/IntegratingData/IntegratingData.iml" />
       <module fileurl="file://$PROJECT_DIR$/RESTfulWebService/RESTfulWebService.iml" filepath="$PROJECT_DIR$/RESTfulWebService/RESTfulWebService.iml" />
