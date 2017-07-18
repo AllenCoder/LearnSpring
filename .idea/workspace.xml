@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="499e1d0f-3a3d-4ef0-b61c-4bb6279e1c4a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_8_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RESTfulWebService/src/main/resources/170717007.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RESTfulWebService/target/classes/hello/GreetingController.class" afterPath="$PROJECT_DIR$/RESTfulWebService/target/classes/hello/GreetingController.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RESTfulWebService/RESTfulWebService.iml" afterPath="$PROJECT_DIR$/RESTfulWebService/RESTfulWebService.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RESTfulWebService/pom.xml" afterPath="$PROJECT_DIR$/RESTfulWebService/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RESTfulWebService/src/main/java/hello/GreetingController.java" afterPath="$PROJECT_DIR$/RESTfulWebService/src/main/java/hello/GreetingController.java" />
     </list>
     <ignored path="$PROJECT_DIR$/gsactuatorservice/target/" />
     <ignored path="$PROJECT_DIR$/gsbatchprocessing/target/" />
@@ -1600,8 +1594,16 @@
       <workItem from="1499309243571" duration="538000" />
       <workItem from="1499685639853" duration="1080000" />
       <workItem from="1499772128919" duration="995000" />
-      <workItem from="1500363089876" duration="2116000" />
+      <workItem from="1500363089876" duration="2166000" />
     </task>
+    <task id="LOCAL-00001" summary="update restWebService">
+      <created>1500367793368</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1500367793368</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1613,7 +1615,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32177000" />
+    <option name="totallyTimeSpent" value="32227000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -1704,6 +1706,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update restWebService" />
+    <option name="LAST_COMMIT_MESSAGE" value="update restWebService" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
