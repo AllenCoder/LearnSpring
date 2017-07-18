@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="CachingDatawithGemFire" />
+        <module name="ManagingTransactions" />
         <module name="RESTfulWebService" />
         <module name="SecuringaWebApplication" />
       </profile>
@@ -17,6 +18,7 @@
       <module name="gsactuatorservice" target="1.6" />
       <module name="gsbatchprocessing" target="1.8" />
       <module name="IntegratingData" target="1.8" />
+      <module name="ManagingTransactions" target="1.5" />
       <module name="RESTfulWebService" target="1.8" />
       <module name="SecuringaWebApplication" target="1.8" />
     </bytecodeTargetLevel>
