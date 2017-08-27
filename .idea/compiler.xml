@@ -20,6 +20,7 @@
       <module name="IntegratingData" target="1.8" />
       <module name="ManagingTransactions" target="1.5" />
       <module name="RESTfulWebService" target="1.8" />
+      <module name="Rxjava2Sample" target="1.8" />
       <module name="SecuringaWebApplication" target="1.8" />
     </bytecodeTargetLevel>
   </component>
