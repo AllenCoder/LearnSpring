@@ -2,6 +2,7 @@ package hello;
 
 import org.springframework.http.*;
 import org.springframework.util.FileCopyUtils;
+import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
@@ -41,5 +42,12 @@ public class GreetingController {
         return new ResponseEntity<Greeting>(greeting, HttpStatus.OK);
     }
 
+    @RequestMapping(value = "activities")
+    public HttpEntity<Greeting> getActivities(
+            @RequestBody Upload upload) {
+        Greeting greeting = new Greeting(String.format(TEMPLATE, "name"), "value");
+        greeting.add(linkTo(methodOn(GreetingController.class).getJson("name", "value")).withSelfRel());
+        return new ResponseEntity<Greeting>(greeting, HttpStatus.OK);
+    }
 
 }
