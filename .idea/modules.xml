@@ -7,7 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/IntegratingData/IntegratingData.iml" filepath="$PROJECT_DIR$/IntegratingData/IntegratingData.iml" />
       <module fileurl="file://$PROJECT_DIR$/ManagingTransactions/ManagingTransactions.iml" filepath="$PROJECT_DIR$/ManagingTransactions/ManagingTransactions.iml" />
       <module fileurl="file://$PROJECT_DIR$/RESTfulWebService/RESTfulWebService.iml" filepath="$PROJECT_DIR$/RESTfulWebService/RESTfulWebService.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Rxjava2Sample/Rxjava2Sample.iml" filepath="$PROJECT_DIR$/Rxjava2Sample/Rxjava2Sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RxJavaDemo/RxJavaDemo.iml" filepath="$PROJECT_DIR$/RxJavaDemo/RxJavaDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/SecuringaWebApplication/SecuringaWebApplication.iml" filepath="$PROJECT_DIR$/SecuringaWebApplication/SecuringaWebApplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/gsactuatorservice/gsactuatorservice.iml" filepath="$PROJECT_DIR$/gsactuatorservice/gsactuatorservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/gsbatchprocessing/gsbatchprocessing.iml" filepath="$PROJECT_DIR$/gsbatchprocessing/gsbatchprocessing.iml" />
